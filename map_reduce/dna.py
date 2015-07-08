@@ -1,4 +1,4 @@
-import MapReduce
+from map_reduce import MapReduce
 import sys
 
 mr = MapReduce.MapReduce()
